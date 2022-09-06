@@ -1,0 +1,8 @@
+//exo 1:your favorite food /
+let j = "sanduiche";
+undefined
+let g = "rice";
+undefined
+console.log("i eat",j,"at every",g,);
+VM665:1 i eat sanduiche at every rice
+undefined

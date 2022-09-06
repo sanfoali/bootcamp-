@@ -1,0 +1,106 @@
+section{
+	display: flex;
+
+}
+
+h2{
+	padding-top: 25px;
+	margin-bottom: 0px;
+	font-size: 50px;
+}
+
+#ga,#dr{
+	width: 50%;
+	height: 750px;
+	text-align: center;
+}
+
+#dr{
+	background-color: #A101A1;
+	/*box-shadow: inset 20px 20px rgba(0, 0, 0, 0.5);*/
+	color: white;
+}
+
+#dr>h2{
+	margin-top: 20px;
+}
+
+#dr>p{
+	font-size: 25px;
+}
+
+hr, #ligne{
+	display: inline-block;
+}
+
+hr{
+	width: 10%;
+}
+
+.input{
+	width: 75%;
+	height: 35px;
+	margin-top: 30px;
+}
+
+.line{
+	margin-top: 30px;
+	display: inline-block;
+}
+
+
+.de{
+	margin-right: 100px;
+}
+
+.tr{
+	margin-left: 200px;
+}
+
+#submit{
+	border: 2px solid #A101A1;
+	width: 73%;
+	margin-left: 12.5%;
+	padding: 8px;
+	background-color: #A101A1;
+	font-size: 22px;
+}
+
+#pied{
+	text-align: center;
+	margin-top: 180px;
+}
+
+#ga{
+	background-color: #e4e4e7;
+}
+
+i{
+	font-size: 40px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+
+#regis{
+	display: flex;
+	justify-content: center;
+	width: 25%;
+	font-size: 25px;
+	margin-left: 37%;
+	border: 2px solid white;
+	border-radius: 50% / 100%;
+}
+ 
+#regis1{
+	margin-left: 20px;
+}
+
+#regis2{
+	margin-top: 17px;
+}
+
+span{
+	margin-top: 140px;
+	font-size: 100px;
+}
